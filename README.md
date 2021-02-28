@@ -7,8 +7,8 @@ USB-OTG functionality is built in Hardwarwe wise. Software support is currently 
 
 The Board can be assembled in two ways allowing dominantly left and right handed Developers to optimally use it, also by flipping it upside down you can choose to have the USB cable stick out the top or bottom.
 
-Safety and Handling Notice
-This productis exclusivelly intended as an utility device for development under laboratory conditions. For use or operation specialist knowledge is required.
+Safety and Handling Notice: 
+This product is exclusivelly intended as an utility device for development under laboratory conditions. For use or operation specialist knowledge is required.
 Assembly by yourself as askilled technician is required. The provided Firmware is only example code to confirm a correctly executed flashing process.
 
 The project is Licensed CC-BY-SA, the Provided Gerbers are marked with registered Trademarks owned by the original developer or IP owners.

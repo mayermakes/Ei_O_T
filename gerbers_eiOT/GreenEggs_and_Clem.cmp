@@ -1,0 +1,139 @@
+Cmp-Mod V01 Created by PcbNew   date = Di 24 Nov 2020 14:58:17
+
+BeginCmp
+TimeStamp = 5FBCD222
+Path = 
+Reference = REF**;
+ValeurCmp = OSHW-Symbol_6.7x6mm_SilkScreen;
+IdModule  = Symbol:OSHW-Symbol_6.7x6mm_SilkScreen;
+EndCmp
+
+BeginCmp
+TimeStamp = 5FBAC80B
+Path = /5FBAC7FF
+Reference = U1;
+ValeurCmp = ESP32-S2-WROOM;
+IdModule  = ESP32S2:XCVR_ESP32-S2-WROOM;
+EndCmp
+
+BeginCmp
+TimeStamp = 5FBAC66B
+Path = /5FBD15F0
+Reference = C1;
+ValeurCmp = 0,1uF;
+IdModule  = Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5FBAC67C
+Path = /5FBD2D26
+Reference = C2;
+ValeurCmp = 10uF;
+IdModule  = Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5FBAC68F
+Path = /5FBB4E89
+Reference = D1;
+ValeurCmp = LED 0603;
+IdModule  = LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5FBAC6BC
+Path = /5FBADEB2
+Reference = J1;
+ValeurCmp = 105450-0101;
+IdModule  = Molex_USB-C:MOLEX_105450-0101;
+EndCmp
+
+BeginCmp
+TimeStamp = 5FBAC6D6
+Path = /5FC3023D
+Reference = J2;
+ValeurCmp = Conn_01x06_Female;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5FBAC72D
+Path = /5FBFF44E
+Reference = R1;
+ValeurCmp = 5k1;
+IdModule  = Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5FBAC73E
+Path = /5FBFF7F8
+Reference = R2;
+ValeurCmp = 5k1;
+IdModule  = Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5FBAC74F
+Path = /5FC1388B
+Reference = R3;
+ValeurCmp = 10k;
+IdModule  = Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5FBAC760
+Path = /5FBDD6FB
+Reference = R4;
+ValeurCmp = 10k;
+IdModule  = Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5FBAC771
+Path = /5FBB5351
+Reference = R5;
+ValeurCmp = 220;
+IdModule  = Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5FBAC790
+Path = /5FBB39AF
+Reference = RESET;
+ValeurCmp = reset;
+IdModule  = Button_Switch_THT:SW_PUSH_6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5FBAC7AF
+Path = /5FBB3C7B
+Reference = FLASH;
+ValeurCmp = flash;
+IdModule  = Button_Switch_THT:SW_PUSH_6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5FBAC821
+Path = /5FBB1DE6
+Reference = U2;
+ValeurCmp = MCP1825S;
+IdModule  = Package_TO_SOT_SMD:SOT-223-3_TabPin2;
+EndCmp
+
+BeginCmp
+TimeStamp = 5FBC57A5
+Path = /5FDB7680
+Reference = J3;
+ValeurCmp = Conn_01x16;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x16_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5FBC710E
+Path = /5FDB8176
+Reference = J4;
+ValeurCmp = Conn_01x16;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x16_P2.54mm_Vertical;
+EndCmp
+
+EndListe

@@ -1,0 +1,15 @@
+ID,Bezeichner,Gehäuse,Stückzahl,Bezeichnung,Anbieter und Referenz
+1,REF**,OSHW-Symbol_6.7x6mm_SilkScreen,1,OSHW-Symbol_6.7x6mm_SilkScreen,DO NOT POPULATE
+2,U1,XCVR_ESP32-S2-WROOM,1,ESP32-S2-WROOM,https://www.mouser.at/ProductDetail/Espressif-Systems/ESP32-S2-WROOMM22S2H3200PH3Q0?qs=vHuUswq2%252BsxRlbezmiT%252B3g%3D%3D
+3,C1,C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,1,"0,1uF","local brand 0603(imperial) 0,1uF ceramic cap"
+4,C2,C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,1,10uF,local brand 0603(imperial) 10uF ceramic cap
+5,D1,LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,1,LED 0603,local brand 0603(imperial) yellow LED 20ma
+6,J1,MOLEX_105450-0101,1,105450-0101,https://export.farnell.com/molex/105450-0101/usb-conn-3-1-usb-type-c-rcpt-surface/dp/2524076?st=105450-0101
+7,J2,PinHeader_1x06_P2.54mm_Vertical,1,Conn_01x06_Female,DO NOT POPULATE
+8,"R1,R2",R_0603_1608Metric_Pad1.05x0.95mm_HandSolder,2,5k1,local brand 0603(imperial) 5k1 resistor
+9,"R3,R4",R_0603_1608Metric_Pad1.05x0.95mm_HandSolder,2,10k,local brand 0603(imperial) 10k resistor
+10,R5,R_0603_1608Metric_Pad1.05x0.95mm_HandSolder,1,220,local brand 0603(imperial) 220 ohm resistor
+11,RESET,SW_PUSH_6mm,1,reset,local brand  tht tactile pushbutton DO NOT POPULATE 
+12,FLASH,SW_PUSH_6mm,1,flash,local brand  tht tactile pushbutton DO NOT POPULATE 
+13,U2,SOT-223-3_TabPin2,1,MCP1825S-3002E/DB,https://export.farnell.com/microchip/mcp1825s-3002e-db/ic-ldo-3-0v-500ma-sot-223-3/dp/1578402?st=mcp1825s
+14,"J3,J4",PinHeader_1x16_P2.54mm_Vertical,2,Conn_01x16,"local Brand 2,54mm pin header 16 pins  DO NOT POPULATE "

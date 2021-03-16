@@ -25,3 +25,5 @@ For usage with the Arduino IDE please follow the latest tutorial to install the 
 To programm the board please choose "ESP32S2DevModule" from the boards list.
 Put the board into download mode by holding down the Flash button while pressing reset.
 EI.O.T does not automatically reset by design, you need to push the reset button yourself, this is to avoid serial transmittion errors while developing IOT applications.
+
+This evaluation board/kit is intended for use for engineering development, evaluation or demonstration use only. It is not considered by MAYER MAKES e.U. to be a product for End-user /consumer use. This evaluation board/kit does not fall within the scope of the European Union directives regarding electromagnetic compatibility, restricted substances (RoHS), recycling (WEEE), FCC, CE or UL. Therefore it may not meet those requirements and is only suitable for use by technically skilled professionals.****

@@ -3,8 +3,7 @@ Breadboard Friendly ESP32-S2 Development Kit / Breakout
 
 All EI.O.T Boards are manufactured in either Europe or USA. There are NO genuine Boards made in Asia, and there probably never will be.
 This is necessary to ensure quality and safety for the applications developed with our Development Kits and breakout boards.
-USB-OTG functionality is built in Hardwarwe wise. Software support is currently under development.
-
+USB-OTG functionality is built in Hardware wise. 
 The Board can be assembled in two ways allowing dominantly left and right handed Developers to optimally use it, also by flipping it upside down you can choose to have the USB cable stick out the top or bottom.
 
 Safety and Handling Notice: 
@@ -26,4 +25,4 @@ To programm the board please choose "ESP32S2DevModule" from the boards list.
 Put the board into download mode by holding down the Flash button while pressing reset.
 EI.O.T does not automatically reset by design, you need to push the reset button yourself, this is to avoid serial transmittion errors while developing IOT applications.
 
-This evaluation board/kit is intended for use for engineering development, evaluation or demonstration use only. It is not considered by MAYER MAKES e.U. to be a product for End-user /consumer use. This evaluation board/kit does not fall within the scope of the European Union directives regarding electromagnetic compatibility, restricted substances (RoHS), recycling (WEEE), FCC, CE or UL. Therefore it may not meet those requirements and is only suitable for use by technically skilled professionals.****
+This evaluation board/kit is intended for use for engineering development, evaluation or demonstration use only. It is not considered by MAYER MAKES e.U. to be a product for End-user /consumer use.  Therefore it may not meet those requirements and is only suitable for use by technically skilled professionals.****

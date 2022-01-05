@@ -26,3 +26,6 @@ Put the board into download mode by holding down the Flash button while pressing
 EI.O.T does not automatically reset by design, you need to push the reset button yourself, this is to avoid serial transmittion errors while developing IOT applications.
 
 This evaluation board/kit is intended for use for engineering development, evaluation or demonstration use only. It is not considered by MAYER MAKES e.U. to be a product for End-user /consumer use.  Therefore it may not meet those requirements and is only suitable for use by technically skilled professionals.****
+
+The Files and Documentation are provided as is without any warranty.
+MAYER MAKES is an internationally registered Trademark of MAYER MAKES e.U., unauthorized use is prohibited
